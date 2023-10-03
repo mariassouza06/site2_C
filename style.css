@@ -4,11 +4,11 @@
     }
     
     body{
-        background-image: linear-gradient(lemonchiffon, #dd371a);
+        background-image: linear-gradient(rgb(143, 16, 228), #5c0596);
     }
 
     .cabeçalho{
-    color: rebeccapurple;
+    color: rgb(11, 226, 29);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -46,7 +46,7 @@
 
     .titulo_apresentaçao_trabalho{
     font-size: 35px;
-    color: blueviolet;
+    color: rgb(11, 226, 29);
     }
 
     .imagem_arvore{
@@ -64,7 +64,8 @@
     }
    
     .akat{
-        color: blueviolet;
+        color: rgb(11, 226, 29);
+    
     }
 
     .Foto1{
@@ -91,4 +92,19 @@
  .Foto5{
     width: 55%;
     margin: 4px 50px 0px 150px;
+ }
+ 
+ .Semana1{
+color: rgb(11, 226, 29);;
+font-size: 30px;
+ }
+
+ .Semanas2{
+    color: rgb(11, 226, 29);
+    font-size: 30px;
+ } 
+
+ .Semana3{
+    color: rgb(11, 226, 29);
+    font-size: 30px;
  }
