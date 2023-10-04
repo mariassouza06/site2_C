@@ -29,6 +29,7 @@
     }
 
     .apresentaçao_trabalho{
+        background-color: White;
         font-size: 25px;
     display: flex;
     justify-content: left;    
